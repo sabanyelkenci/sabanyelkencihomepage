@@ -1,12 +1,18 @@
-# :memo: Project Overview
+# INTERVIEW NOTES
 
-## ABOUT THE PROJECT
+## :memo: The interviewee's personal information
+
+_SABAN YELKENCI_ [GitHub Profile](https://github.com/sabanyelkenci) 36 years old. Before one year ago he came from Turkey to Belgium. He is married and has a son 6 years old. He has got Bachelor Degree in Industrial Engineering. Saban has experience in IT sector. He wants to build a better life in Belgium and to become as a successful web developer together with his wife Zehra.
+
+## :memo: Project Overview
+
+### ABOUT THE PROJECT
 
 **Why are we doing this? And what’s the product/service that we’re selling as the solution?**
 
 This will be my first homepage and I believe that "sharing is caring". So, I want to share brief information and my opinions about books that I read with everyone. On the other hand, I want to build a bridge between humans and books.
 
-## DELIVERABLES
+### DELIVERABLES
 
 - A wire frame for the home page
 - Logo that describe the aim of the web page
@@ -18,7 +24,7 @@ This will be my first homepage and I believe that "sharing is caring". So, I wan
 - A search bar
 - A showcase that shows user the popular writers and brief info about them
 
-## DO'S AND DON'TS
+### DO'S AND DON'TS
 
 **Do's**
 
@@ -38,12 +44,12 @@ This will be my first homepage and I believe that "sharing is caring". So, I wan
 
 :thumbsdown: Not have dead links
 
-# :memo: Project Goals
+## :memo: Project Goals
 
 1. Sharing my opinions about the books that I read and want to read.
 2. Giving information about the books and giving suggestion about the reading.
 
-# :memo: Rational Questions
+## :memo: Rational Questions
 
 **WHAT CAN YOUR CUSTOMERS DO WITH YOUR PRODUCT?**
 
@@ -71,7 +77,7 @@ WORK ENVIRONMENT, ETHICS, VALUES…
 4. Peaceful world
 5. Happy people
 
-# :memo: Persona
+## :memo: Persona
 
 ![Persona](https://www.holabrief.com/assets/briefingtool/image/persona/photo-1519262113844-152510a1d98a.jpg)
 
@@ -134,7 +140,7 @@ Glass is half full :arrows_counterclockwise: Glass is half empty
 
 Tea, please :arrow_left: Coffee addict
 
-# :memo: Website Specifications
+## :memo: Website Specifications
 
 ### WEBSITE TYPE
 
