@@ -1,18 +1,18 @@
-# INTERVIEW NOTES
+![book](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQz3BPeknf1LxqOqoB4Zo_J7vxxpEK6VQMSLww4z1YixQcev9Gtj8nH7QfBz4&usqp=CAc)
 
 ## :memo: The interviewee's personal information
 
-_SABAN YELKENCI_ [GitHub Profile](https://github.com/sabanyelkenci) 36 years old. Before one year ago he came from Turkey to Belgium. He is married and has a son 6 years old. He has got Bachelor Degree in Industrial Engineering. Saban has experience in IT sector. He wants to build a better life in Belgium and to become as a successful web developer together with his wife Zehra.
+_SABAN YELKENCI_ [GitHub Profile](https://github.com/sabanyelkenci) 36 years old. Before one year ago he came from Turkey to Belgium. He is married and has a son 6 years old. He has got Bachelor Degree in Industrial Engineering. Saban has experience in IT sector. He worked as a business analyst for ten years in Turkey. He wants to build a better life in Belgium and to become as a successful web developer together with his wife Zehra.
 
 ## :memo: Project Overview
 
-### ABOUT THE PROJECT
+### About the project
 
 **Why are we doing this? And what’s the product/service that we’re selling as the solution?**
 
 This will be my first homepage and I believe that "sharing is caring". So, I want to share brief information and my opinions about books that I read with everyone. On the other hand, I want to build a bridge between humans and books.
 
-### DELIVERABLES
+### Deliverables
 
 - A wire frame for the home page
 - Logo that describe the aim of the web page
@@ -24,7 +24,7 @@ This will be my first homepage and I believe that "sharing is caring". So, I wan
 - A search bar
 - A showcase that shows user the popular writers and brief info about them
 
-### DO'S AND DON'TS
+### Do's and Dont's
 
 **Do's**
 
@@ -55,7 +55,7 @@ This will be my first homepage and I believe that "sharing is caring". So, I wan
 
 The visitors of the my web page will be informed about books and writers. Also they will have reading suggestions and understand about of main idea of the books
 
-**WHAT MAKES YOUR PRODUCT OR SERVICE DIFFERENT THAN YOUR COMPETITORS?**
+**WHAT MAKES YOUR PRODUCT DIFFERENT THAN YOUR COMPETITORS?**
 
 The content of the website will be definitely new for the visitors and they will take attention to messages of the books
 
@@ -63,11 +63,7 @@ The content of the website will be definitely new for the visitors and they will
 
 Sharing is caring. For a better world, we have to read more and more books. Thus we can understand each other easily and will have a peaceful life. This is absolutely a volunteer business
 
-**WHAT IS THE COMPANY HISTORY?**
-
-My bachelor degree in Industrial Engineering and I worked as a business analyst for ten years in Turkey. And I have been living in Belgium for more than 1 year
-
-**WHAT IS YOUR COMPANY CULTURE LIKE?**
+**WHAT IS YOUR PROJECT CULTURE LIKE?**
 
 WORK ENVIRONMENT, ETHICS, VALUES…
 
