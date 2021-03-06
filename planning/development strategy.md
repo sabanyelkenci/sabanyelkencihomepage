@@ -161,3 +161,23 @@ Wireframe
 
 - `style.css`: to style all the page
 ### milestone is `wireframe`
+
+## V. Footer
+
+
+> Small step.
+
+ **As a site owner**, I want to have a footer section
+ ### REPO
+
+- This user story is developed on branch `Footer`.
+- This branch is merged to `main` branch after the acceptance criteria have been checked off.
+
+### Concern A
+
+- `index.html`: file created to build the main page.
+
+### Concern B
+
+- `style.css`: to style all the page
+### milestone is `wireframe`
