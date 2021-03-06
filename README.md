@@ -11,6 +11,6 @@ Practice User Interviews and Design Thinking by working in pairs to come up with
 
 - HYF UI/UX design module [repository](https://github.com/sabanyelkenci/sabanyelkencihomepage). (Supposed to be forked by team members).
 
-[Wireframe](https://user-images.githubusercontent.com/73791189/110220403-d315a400-7ec5-11eb-82ec-d34f56a25fe0.png)
+- [Wireframe](https://user-images.githubusercontent.com/73791189/110220403-d315a400-7ec5-11eb-82ec-d34f56a25fe0.png)
 
 ![library](https://media.giphy.com/media/fXnx6vSSrzY92rTONJ/giphy.gif)
