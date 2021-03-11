@@ -16,6 +16,7 @@
 - **As a site visitor**, I want to feel free to see content in a proper way from different gadgets, so that I can visit the website in any сonvenient time for me.
 - **As a site visitor**, I want to see new content when I come to the site, so I come back more often.
 - **As a site owner**, I want to have user friendly and simple interface but also it looks like professional, so that it helps me to attract more visitors.
+- - **As a site visitor**, I want to see the page only with books and filters, so that I can observe all of them and easy to choose exactly what I want.
 
 ## Could Have
 
