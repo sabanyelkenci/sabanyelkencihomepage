@@ -1,0 +1,1 @@
+![FigmaDesign](../public/img/sabanyelkenci_homepage-1.png)
