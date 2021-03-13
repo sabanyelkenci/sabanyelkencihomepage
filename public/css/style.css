@@ -266,3 +266,40 @@ border-radius: 0px;
   
 
 
+/*MyLibrary*/
+
+
+.MyLibrary {
+
+  height: 1351px;
+  width: 1439px;
+  left: -17px;
+  top: 1192px;
+  border-radius: 0px;
+  position: absolute;
+  
+  
+
+}
+
+.Myl-H{
+
+  height: 56px;
+  width: 387px;
+  left: 685px;
+  top: 33px;
+  border-radius: 0px;
+  position: absolute;
+  background: #FFFFFF;
+  font-family: Roboto;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+letter-spacing: 0em;
+text-align: center;
+
+  
+
+  
+}
