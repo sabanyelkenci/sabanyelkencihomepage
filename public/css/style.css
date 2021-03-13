@@ -1,59 +1,268 @@
+/*utilities*/
 
 /*menu*/
 
 .container-menu {
-position: absolute;
-width: 100%;
-height: 193px;
-left: -1px;
-top: 0px;
-background: #142D50;
-margin: 0px;
-padding: 0px;
+  position: absolute;
+  width: 100%;
+  height: 193px;
+  left: 0px;
+  top: 0px;
+  background: #142d50;
+  margin: 0px;
+  padding: 0px;
 }
-
 
 .logo {
-
-    position: absolute;
-    width: 176px;
-    height: 171px;
-    left: 37px;
-    top: 48px;
-    background: url(pp.jpg);
-    border-radius: 165px;
+  position: absolute;
+  width: 176px;
+  height: 171px;
+  left: 37px;
+  top: 48px;
+ 
+  border-radius: 165px;
 }
-
 
 .nav {
-    
-    height: 50px;
-    line-height: 50px;
-    margin: 10px;
-    padding: 10px;
-
-
+  height: 50px;
+  line-height: 50px;
+  margin: 10px;
+  padding: 10px;
 }
-
 
 ul {
+  float: right;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  align-items: center;
+  padding: 30px;
+  margin: 0;
+  color: rgb(255, 255, 255);
+}
 
-    float: right;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    align-items: center;
-    padding: 0;
-    margin: 0;
-    color: rgb(255, 255, 255);    
+li {
+  display: inline;
+  float: right;
+  padding: 10px;
+  margin: 1px;
+  font-size: 25px;
+}
+
+/*AboutMe*/
+
+.about-me {
+  position: absolute;
+  width: 100%;
+  height: 280px;
+  left: 0px;
+  top: 195px;
+  
+}
+
+
+.about-me-p {
+  position: absolute;
+  width: 1179.42px;
+  left: 360px;
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 35px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #000000;
+  padding:50px;
+  margin: 0;
+}
+
+/*MyExperience*/
+
+.MyE-p {
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #FFFFFF;
+  
+  
+}
+
+.MyE-t {
+  position: absolute;
+  left: 11.44%;
+  right: 16.42%;
+  top: 20.52%;
+  bottom: 46.72%;
+  
+  }
+
+
+.my-experience {
+  position: absolute;
+  width: 90%;
+  height: 674px;
+  left: 155px;
+  top: 518px;
+  
+  background: #FFFFFF;
+    
+}
+
+.MyH {
+position: absolute;
+width: 198px;
+height: 65px;
+left: 635px;
+top: 24px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #142D50;
 
 }
 
-li{
-    display: inline;
-    float: right;
-    padding: 30px;
-    margin: 30px;
-    font-size: 20px;
+.MyExp-Table {
+
+  position: absolute;
+  width: 90%;
+  height: 556px;
+  top: 87px;
+  
+  
+  background: #FFFFFF;
+
 }
+/*Turktelekom*/
+
+.MyExp-TT {
+
+position: absolute;
+top: 3.24%;
+bottom: 55.58%;
+height: 229px;
+width: 33%;
+left: 0px;
+border-radius: 0px;
+
+}
+
+.TT-img {
+position: absolute;
+width: 175.21px;
+height: 200 px;
+left: 17px;
+top: 25px;
+}
+
+.TT-cont{
+position: absolute;
+right: 0%;
+top: 0%;
+bottom: 0%;
+height: 229px;
+width: 201px;
+left: 200px;
+top: 0px;
+border-radius: 0px;
+background: #15C1D9;
+}
+
+
+/*Icisleri*/
+.MyExp-IB {
+height: 419px;
+width: 201px;
+left: 444px;
+top: 98px;
+border-radius: 0px;
+
+position: absolute;
+left: 40.81%;
+right: 40.72%;
+
+bottom: 7.01%;
+
+}
+
+.IB-img {
+height: 131.08407592773438px;
+width: 185px;
+left: 450px;
+top: 98px;
+border-radius: 0px;
+
+  
+}
+
+.IB-cont {
+height: 229px;
+width: 201px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 140px;
+  bottom: 0%;
+  
+  background: #15C1D9;
+
+}
+
+/*Mebitech*/
+
+.MyExp-MT {
+
+  position: absolute;
+  left: 855px;
+  
+  top: 3.24%;
+  bottom: 55.58%;
+  
+  height: 229px;
+  width: 33%;
+ 
+  border-radius: 0px;
+  
+  
+  }
+  
+  .MT-img {
+  position: absolute;
+  width: 222px;
+  height: 250 px;
+  left: 455px;
+  top: 75px;
+  }
+  
+  .MT-cont{
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    height: 229px;
+    width: 201px;
+    left: 200px;
+    top: 0px;
+    border-radius: 0px;
+    background: #15C1D9;
+  }
+  
+  
+
+
